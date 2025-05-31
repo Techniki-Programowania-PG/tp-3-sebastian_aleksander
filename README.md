@@ -1,3 +1,4 @@
+Aleksander Turek 203677, Sebastian Friedrich 203361 ACiR Projekt 3 
 # scikit_build_example
 
 [![Gitter][gitter-badge]][gitter-link]
